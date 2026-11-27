@@ -17,10 +17,10 @@
 
 ### Featured Projects
 
-| Project | Focus | Stack |
-| :--- | :--- | :--- |
-| **[REELREAD](https://github.com/mukeshsarwa33-droid/REELREAD)** | Flagship micro-SaaS & AI-skill platform turning videos into structured knowledge, PDFs, and reusable AI skills | FastAPI, Pydantic, PostgreSQL (Neon), Redis/ARQ, Anthropic, Gemini, Groq, yt-dlp, ReportLab |
-| **[Handy](https://github.com/mukeshsarwa33-droid/Handy)** | Public JavaScript utility repository | JavaScript |
+| Project | Focus | Visibility | Stack |
+| :--- | :--- | :--- | :--- |
+| **REELREAD** | Flagship micro-SaaS & AI-skill platform turning videos into structured knowledge, PDFs, and reusable AI skills | Private (Active Build) | FastAPI, Pydantic, PostgreSQL (Neon), Redis/ARQ, Anthropic, Gemini, Groq, yt-dlp, ReportLab |
+| **[Handy](https://github.com/mukeshsarwa33-droid/Handy)** | JavaScript utility repository | Public | JavaScript |
 
 ---
 
